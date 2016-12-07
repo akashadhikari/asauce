@@ -11,7 +11,7 @@ Enjoy! <br>
 
 # Contact
 Akash Adhikari<br>
-Twitter: <a href="https://twitter.com/skynush">@skynush</a>
+Twitter: <a href="https://twitter.com/skynush">@skynush</a> <br>
 Linkedin: <a href="https://www.linkedin.com/in/akashadh">Akash Adhikari</a>
 
 
