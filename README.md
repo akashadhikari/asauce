@@ -1,5 +1,5 @@
 # Asauce
-A Chrome extension that will allow you to browse through or search the contents of specific channels on Youtube (By default, the extension is set to searching "Vsauce" channel videos-- you can always modify ;) ).
+A Chrome extension that will allow you to browse through or search the contents of specific channels on Youtube (By default, the extension is set to searching "Vsauce" channel's videos-- you can always modify ;) ).
 
 # Installation:
 1) Download the zip file and unzip it to a folder. <br>
