@@ -1,7 +1,7 @@
     google.load("feeds", "1");
 
     function initialize() {
-      var feed = new google.feeds.Feed("http://gdata.youtube.com/feeds/api/users/CHANNEL_NAME/uploads");
+      var feed = new google.feeds.Feed("http://gdata.youtube.com/feeds/api/users/vsauce/uploads");
       feed.setNumEntries(10);
       var count = 1;
       feed.load(function(result) {
