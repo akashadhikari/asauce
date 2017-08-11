@@ -9,6 +9,10 @@ A Chrome extension that will allow you to browse through or search the contents 
 
 Enjoy! <br>
 
+
+# Suggestions and Contributions
+Feel free. :)
+
 # Contact
 Akash Adhikari<br>
 Twitter: <a href="https://twitter.com/skynush">@skynush</a> <br>
